@@ -2,9 +2,7 @@
   {
     "id": 1,
     "name": "Sistemas de Informação",
-    "campus": "Florianópolis",
-    "turno": "Noturno",
-    "carga": "3186 H",
+    "username": "Florianópolis",
     "email": "Sin@contato.ufsc.br",
     "address": {
       "street": "Kulas Light",
@@ -16,9 +14,12 @@
         "lng": "81.1496"
       }
     },
-    "phone": "(48) 3721 9424",
+    "phone": "3186 H",
     "website": "https://sin.ufsc.br/",
-    "coordenador": "Prof. Dr. Alvaro Junio Pereira Franco",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
     }
   }
 ]
