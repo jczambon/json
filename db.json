@@ -2,8 +2,10 @@
   {
     "id": 1,
     "name": "Sistemas de Informação",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "campus": "Florianópolis",
+    "turno": "Noturno",
+    "carga": "3186 H",
+    "email": "Sin@contato.ufsc.br",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -14,18 +16,15 @@
         "lng": "81.1496"
       }
     },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
+    "phone": "(48) 3721 9424",
+    "website": "https://sin.ufsc.br/",
+    "coordenador": "Prof. Dr. Alvaro Junio Pereira Franco",
     }
   },
   {
     "id": 2,
     "name": "Filosofia",
-    "username": "Antonette",
+    "campus": "Florianópolis",
     "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
@@ -48,7 +47,7 @@
   {
     "id": 3,
     "name": "Zootecnia",
-    "username": "Samantha",
+    "campus": "Florianópolis",
     "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
@@ -71,7 +70,7 @@
   {
     "id": 4,
     "name": "Psicologia",
-    "username": "Karianne",
+    "campus": "Florianópolis",
     "email": "Julianne.OConner@kory.org",
     "address": {
       "street": "Hoeger Mall",
@@ -94,7 +93,7 @@
   {
     "id": 5,
     "name": "Jornalismo",
-    "username": "Kamren",
+    "campus": "Florianópolis",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
       "street": "Skiles Walks",
