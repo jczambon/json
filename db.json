@@ -18,6 +18,7 @@
       }
     },
     "phone": "(48) 3721 9424",
+    "coordenador": "Profa. Carolina Souza Noto",
     "website": "https://sin.ufsc.br/",
     "img1": "https://mapio.net/images-p/18225816.jpg",
     "img2": "http://ctc.paginas.ufsc.br/files/2020/02/4b79ec68-a8b3-4d1e-a6b8-e50492bd255e-1024x576.jpg",
@@ -27,25 +28,26 @@
     "id": 2,
     "name": "Filosofia",
     "username": "Florianópolis",
-    "email": "Sin@contato.ufsc.br",
+    "email": "Filosofia@contato.ufsc.br",
     "campus": "Florianópolis",
     "turno": "Noturno",
-    "carga": "3186 H",
+    "carga": "2800 H",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
       "city": "Gwenborough",
       "zipcode": "92998-3874",
       "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
+        "lat": "-27.602004008926976",
+        "lng": "-48.52323175635696"
       }
     },
-    "phone": "(48) 3721 9424",
-    "website": "https://sin.ufsc.br/",
-    "img1": "https://mapio.net/images-p/18225816.jpg",
-    "img2": "http://ctc.paginas.ufsc.br/files/2020/02/4b79ec68-a8b3-4d1e-a6b8-e50492bd255e-1024x576.jpg",
-    "video": "https://www.youtube.com/watch?v=EZEfN5z8Mlg"
+    "phone": "(48) 3721-4552",
+    "coordenador": "Profa. Carolina Souza Noto",
+    "website": "https://filosofia.ufsc.br/",
+    "img1": "https://www.a12.com/source/files/originals/filosofia-socrates-250442.jpg",
+    "img2": "https://fastly.4sqi.net/img/general/600x600/53418392_mzhd1-aQ-7FmXlmYrIzc7nMQLfpZ1AU1ucE81KF7kc8.jpg",
+    "video": "https://www.youtube.com/watch?v=4vEqWdtVUmg"
   },
   {
     "id": 3,
@@ -66,6 +68,7 @@
       }
     },
     "phone": "(48) 3721 9424",
+    "coordenador": "Profa. Carolina Souza Noto",
     "website": "https://sin.ufsc.br/",
     "img1": "https://mapio.net/images-p/18225816.jpg",
     "img2": "http://ctc.paginas.ufsc.br/files/2020/02/4b79ec68-a8b3-4d1e-a6b8-e50492bd255e-1024x576.jpg",
@@ -90,6 +93,7 @@
       }
     },
     "phone": "(48) 3721 9424",
+    "coordenador": "Profa. Carolina Souza Noto",
     "website": "https://sin.ufsc.br/",
     "img1": "https://mapio.net/images-p/18225816.jpg",
     "img2": "http://ctc.paginas.ufsc.br/files/2020/02/4b79ec68-a8b3-4d1e-a6b8-e50492bd255e-1024x576.jpg",
@@ -114,6 +118,7 @@
       }
     },
     "phone": "(48) 3721 9424",
+    "coordenador": "Profa. Carolina Souza Noto",
     "website": "https://sin.ufsc.br/",
     "img1": "https://mapio.net/images-p/18225816.jpg",
     "img2": "http://ctc.paginas.ufsc.br/files/2020/02/4b79ec68-a8b3-4d1e-a6b8-e50492bd255e-1024x576.jpg",
