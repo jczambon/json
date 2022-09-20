@@ -2,16 +2,11 @@
   {
     "id": 1,
     "name": "Sistemas de Informação",
-    "username": "Florianópolis",
     "email": "Sin@contato.ufsc.br",
     "campus": "Florianópolis",
     "turno": "Noturno",
     "carga": "3186 H",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
       "geo": {
         "lat": "-27.600008033750463",
         "lng": "-48.51709325998413"
@@ -27,16 +22,11 @@
   {
     "id": 2,
     "name": "Filosofia",
-    "username": "Florianópolis",
     "email": "Filosofia@contato.ufsc.br",
     "campus": "Florianópolis",
     "turno": "Noturno",
     "carga": "2800 H",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
       "geo": {
         "lat": "-27.602004008926976",
         "lng": "-48.52323175635696"
@@ -52,16 +42,11 @@
   {
     "id": 3,
     "name": "Nutrição",
-    "username": "Florianópolis",
     "email": "nutricao@contato.ufsc.br",
     "campus": "Florianópolis",
     "turno": "Matutino e Vespertino",
     "carga": "3840 H",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
       "geo": {
         "lat": "-27.59877486821049",
         "lng": "-48.517614042783755"
@@ -77,16 +62,11 @@
   {
     "id": 4,
     "name": "Psicologia",
-    "username": "Florianópolis",
     "email": "depto.psicologia@contato.ufsc.br",
     "campus": "Florianópolis",
     "turno": "Integral",
     "carga": "3600 H",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
       "geo": {
         "lat": "-27.601935458336037",
         "lng": "-48.523239573475024"
@@ -102,16 +82,11 @@
   {
     "id": 5,
     "name": "Jornalismo",
-    "username": "Florianópolis",
     "email": "Jornalismo@contato.ufsc.br",
     "campus": "Florianópolis",
     "turno": "Vespertino",
     "carga": "3380 H",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
       "geo": {
         "lat": "-27.600720149580336",
         "lng": "-48.52183843806112"
