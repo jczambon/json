@@ -105,23 +105,23 @@
     "username": "Florianópolis",
     "email": "Jornalismo@contato.ufsc.br",
     "campus": "Florianópolis",
-    "turno": "Noturno",
-    "carga": "3186 H",
+    "turno": "Vespertino",
+    "carga": "3380 H",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
       "city": "Gwenborough",
       "zipcode": "92998-3874",
       "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
+        "lat": "-27.600720149580336",
+        "lng": "-48.52183843806112"
       }
     },
     "phone": "(48) 3721 9490",
     "coordenador": "Profa. Valentina da Silva Nunes",
     "website": "https://jornalismo.ufsc.br/",
-    "img1": "https://mapio.net/images-p/18225816.jpg",
-    "img2": "http://ctc.paginas.ufsc.br/files/2020/02/4b79ec68-a8b3-4d1e-a6b8-e50492bd255e-1024x576.jpg",
+    "img1": "https://files.nsctotal.com.br/s3fs-public/styles/paragraph_image_style/public/graphql-upload-files/primeira%20capa%20jornal%20de%20sc_7_0.jpg?Lpn6IijUC_m4T1y8o2oB8HeT9wMaWay0&itok=psMBcw7W",
+    "img2": "https://cce.ufsc.br/files/2010/12/CCE-2012-Foto-Henrique-Almeida-Agecom-UFSC-e1524851539454.jpg",
     "video": "https://www.youtube.com/watch?v=4vEqWdtVUmg"
   }
 ]
